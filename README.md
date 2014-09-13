@@ -1,4 +1,4 @@
-nopstripe
+Place holder for nopstripe.  Source code will be added soon.
 =========
                                   __           .__                 
   ____    ____  ______    _______/  |_ _______ |__|______    ____  
