@@ -6,6 +6,5 @@
 |___|  / \____/ |   __/ /____  > |__|   |__|   |__||   __/  \___  >
      \/         |__|         \/                    |__|         \/ 
 
-Author:  Vivian Ho
 This plugin is a Stripe payment gateway for nopCommerce ecommerce solution
 Pre-requisites:  ASP.NET MVC 5
