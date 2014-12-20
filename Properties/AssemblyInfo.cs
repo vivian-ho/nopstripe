@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Snap 'n Zip LLC")]
 [assembly: AssemblyProduct("Nop.Plugin.Payments.Stripe")]
-[assembly: AssemblyCopyright("Copyright © Snap 'n Zip LLC 2012")]
+[assembly: AssemblyCopyright("Copyright © Snap 'n Zip LLC 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
